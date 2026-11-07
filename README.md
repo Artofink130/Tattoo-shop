@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Ink Legacy Tattoo Studio — Booking Platform (Laravel 12)
 
 Public website + separate admin back-office for a multi-artist tattoo studio serving Brazil, Argentina and the US.
@@ -70,3 +71,6 @@ Shared hosting: point the document root at `public/`.
 
 ## Not yet included
 Per-artist portfolio galleries, automatic on-chain verification, a Vite-built CSS bundle (replace the Tailwind CDN tag in `resources/views/layouts/*.blade.php` for heavy traffic), multi-language UI, and calendar/availability booking. Check tattoo-business and crypto regulations in each country you serve.
+=======
+# Tattoo-shop
+>>>>>>> 
